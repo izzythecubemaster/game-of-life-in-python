@@ -1,0 +1,15 @@
+Game of Life in Python
+======================
+Implementation of John Conway's Game of Life in Python.
+
+Usage
+-----
+gameoflife.py --help for details. Press any key to quit while playing.
+
+Authors
+-------
+Tommi Asiala <tommi@asiala.info>
+
+License
+-------
+GPL version 3. See LICENSE file.
